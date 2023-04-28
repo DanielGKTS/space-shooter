@@ -1,5 +1,7 @@
-﻿namespace Space_Shooter
+// The namespace organizes the code into a named group, preventing naming conflicts with other code.
+namespace Space_Shooter
 {
+	// The partial class is a class that can be split into multiple files. In this case, the class is split into two files: Form1.cs and Form1.Designer.cs.
 	partial class Form1
 	{
 		/// <summary>
@@ -28,6 +30,7 @@
 		/// </summary>
 		private void InitializeComponent()
 		{
+			// Initializes the form components.
 			this.components = new System.ComponentModel.Container();
 			this.player = new System.Windows.Forms.PictureBox();
 			this.timer1 = new System.Windows.Forms.Timer(this.components);
@@ -46,6 +49,7 @@
 			// 
 			// player
 			// 
+			// Initializes the player object and sets its properties.
 			this.player.Image = global::Space_Shooter.Properties.Resources.player_img;
 			this.player.Location = new System.Drawing.Point(223, 379);
 			this.player.Name = "player";
@@ -56,11 +60,13 @@
 			// 
 			// timer1
 			// 
+			// Initializes the timer object and sets its properties.
 			this.timer1.Enabled = true;
 			this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
 			// 
 			// alien
 			// 
+			// Initializes the alien object and sets its properties.
 			this.alien.Image = global::Space_Shooter.Properties.Resources.alien_gif;
 			this.alien.Location = new System.Drawing.Point(101, 34);
 			this.alien.Name = "alien";
@@ -72,6 +78,7 @@
 			// 
 			// ship
 			// 
+			// Initializes the ship object and sets its properties.
 			this.ship.Image = global::Space_Shooter.Properties.Resources.ship_gif;
 			this.ship.Location = new System.Drawing.Point(330, 54);
 			this.ship.Name = "ship";
