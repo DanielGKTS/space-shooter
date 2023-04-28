@@ -1,0 +1,18 @@
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\bin\Debug\net7.0-windows\Space Shooter.exe
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\bin\Debug\net7.0-windows\Space Shooter.deps.json
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\bin\Debug\net7.0-windows\Space Shooter.runtimeconfig.json
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\bin\Debug\net7.0-windows\Space Shooter.dll
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\bin\Debug\net7.0-windows\Space Shooter.pdb
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space_Shooter.Form1.resources
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.csproj.GenerateResource.cache
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.AssemblyInfo.cs
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.dll
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\refint\Space Shooter.dll
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.pdb
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space Shooter.genruntimeconfig.cache
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\ref\Space Shooter.dll
+C:\Users\danie\Documents\cps_3330\Space Shooter\Space Shooter\obj\Debug\net7.0-windows\Space_Shooter.Properties.Resources.resources
